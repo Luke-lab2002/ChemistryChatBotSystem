@@ -13,3 +13,4 @@ This project aims to develop an advanced chatbot system by combining the power o
     <h4>Solution for LLM that can recognize images: OCR or CLIP multimodal (Researching)</h4>
     
 <h2>Deployment</h2>
+I plan to deploy on AWS
