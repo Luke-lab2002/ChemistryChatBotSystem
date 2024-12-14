@@ -5,7 +5,7 @@ This project aims to develop an advanced chatbot system by combining the power o
 <h2>Microservices architecture</h2>
 <img src="./assets/MicroService.drawio.png" alt="Nest Logo" />
 
-<h2>Services and functions</h2>
+<h2>Services and functions (Source code services)</h2>
     <h4>Chemistry ChatBot: <a href="https://github.com/Luke-lab2002/MistralChemistryChatBot">Built by LLM and RAG </a> </h4>
     <h4>Back-end: <a href="https://github.com/Luke-lab2002/ChatChemistryBackend.git">Built by NestJS and MongoDB</a></h4>
     <h4>Font-end: <a href="https://github.com/Luke-lab2002/StreamlitChemistryChatBot.git">Built by Streamlit</a></h4>
