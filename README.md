@@ -11,3 +11,5 @@ This project aims to develop an advanced chatbot system by combining the power o
     <h4>Font-end: <a href="https://github.com/Luke-lab2002/StreamlitChemistryChatBot.git">Built by Streamlit</a></h4>
     <h4>Emotion classification (text classification): <a href="https://colab.research.google.com/drive/1qw5MsBCTE5wSb2OPxlspdPlXVHXCOTfA?usp=sharing">It's in development, and you can take a look here.</a></h4>
     <h4>Solution for LLM that can recognize images: OCR or CLIP multimodal (Researching)</h4>
+    
+<h2>Deployment</h2>
