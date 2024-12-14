@@ -2,6 +2,9 @@
 <h2>Introduction</h2>
 I have a favorite to Chemistry and Programing
 
+<h2>UX/UI</h2>
+<img src="./assets/img_1.png" alt="Nest Logo" />
+
 <h2>Microservices architecture</h2>
 <img src="./assets/MicroService.drawio.png" alt="Nest Logo" />
 
